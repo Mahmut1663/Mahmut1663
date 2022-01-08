@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mahmut1663
 - 👀 I’m interested in HTML and JavaScript 
 - 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on be a hacker
+- 💞️ I’m looking to collaborate cyber 
 - 📫 How to reach me ...
 
 <!---
